@@ -1,0 +1,14 @@
+Package: pollo
+Filename: pollo.sh.plcm
+Size: 0
+SHA1: 786a5647927ceec92ecb2ffa5e906ca93327aa00
+Version: 2.2.2.8
+VersionSuffix: 
+BuildNumber: 1337
+Type: EXTERNAL
+group: PRE_INSTALL
+DestErase: FALSE
+DestEraseFR: FALSE
+Installer: pollo.sh
+FIFO: /tmp/su_installer.fifo
+

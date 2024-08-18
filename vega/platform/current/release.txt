@@ -1,0 +1,8 @@
+Product: vega
+DisplayName: Touch controller software package
+Version: 2.2.2.8
+VersionSuffix: 
+BuildNumber: 1337
+ProjectPhase: release
+HwModels: VEGA=vega
+PackageIndexSHA1: 0000000000000000000000000000000000000000
